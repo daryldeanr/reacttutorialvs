@@ -1,0 +1,35 @@
+.background{
+  /* background-image: url("../images/pageBG1.png"); */
+  background-image: linear-gradient(#f5e2c2, floralwhite  );
+  border-top: 0.3rem solid #C6BDA5;
+  border-bottom: 0.3rem solid #C6BDA5;
+  text-align: left;
+  padding: 25px, 5px;
+  height: 150x;
+}
+
+.logo{
+  margin-left: 15px;
+}
+
+.container{
+  padding-left: 10%;
+  display:inherit;
+}
+
+.navbar{
+  overflow: hidden;
+  background-color: transparent;
+}
+.navbar a{
+  float: right;
+  display: block;
+  color: red;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.navbar a:hover{
+  background-color: #ddd;
+  color: black;
+}

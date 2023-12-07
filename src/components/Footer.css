@@ -1,0 +1,16 @@
+.backgroundFooter{
+  height: 2vw;
+  background-image: linear-gradient(floralwhite, #f5e2c2  );
+  border-top: 0.3rem solid #C6BDA5;
+  border-bottom: 0.3rem solid #C6BDA5;
+  text-align: center;
+  font-size: 2.2vw;
+  padding-top: 1.2vw;
+  padding-bottom: 1.2vw;
+}
+footer{
+  text-align: center;
+}
+p{
+  text-align: center;
+}

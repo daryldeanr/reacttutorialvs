@@ -1,0 +1,16 @@
+.containerQuote{
+  color:black;
+  text-shadow: 2px 2px white;
+  font-style: italic;
+  font-weight: 800;
+  border: 1px solid red;
+  padding: 0.9vw;
+}
+
+.textLeft{
+  text-align: left;
+}
+
+.textRight{
+  text-align: right;
+}

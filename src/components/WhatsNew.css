@@ -1,0 +1,33 @@
+ .whatsNewContainer{
+  background-image: linear-gradient(floralwhite, white);
+  padding: 0.5vw;
+}
+
+p{
+  text-align: left;
+  font-size: 2.1vw;
+}
+
+li{
+  font-size: 2.3vw;
+}
+
+ .sectionTitleB{
+  color:cadetblue;
+  padding-left: 5%;
+  font-size: 2.5vw;
+  font-weight: 800;
+  text-decoration: underline;
+  text-shadow: 1px 0px blue;
+  padding-bottom: 0%;
+} 
+
+.emailLink{
+  color: blue;
+  font-size: 2.3vw;
+  padding-left: 2%;
+}
+
+.padding-5{
+  padding: 2%;
+} 
